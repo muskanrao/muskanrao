@@ -1,20 +1,17 @@
 <p align="center">
-<a  href="#"><img width="40%" height="auto" src="https://media1.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif?cid=ecf05e47q7vv4nswqko1jdyveym7qgwpe56oebzu1bjaymlr&rid=giphy.gif&ct=g" height="80px" /></a>
+<a  href="#"><img width="30%" height="auto" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="6px" /></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sankalp</h1>
-<h3 align="center">Full stack developer based out of India.</h3>
-<h3 align="center">https://portfolio-site-sankalp1011.vercel.app</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muskan</h1>
+<h3 align="center">Ios app developer from India.</h3>
 
 
 ## About Me
-- Third year computer science student from Vellore Insititute of technology , Vellore.
+- I am third year student from Vellore Institute of technology , Vellore pursuing computer science with specialisation in Information Security.
  
-> - I am full stack developer.✨
-> - I also know develops app using swift.✨
-> - I have a keen interest in learning about cloud computing.✨
-> - Backend||Frontend||Database , I can work with with all.✨
-> - Reach me out at **sankalp.pandey1011@gmail.com**.
+> - I am Ios app developer who can create high functionality apps.✨
+> - I have a keen interest in learning about the architecture of ios applications and software.✨
+> - Reach me out at **muskan.rao4347@gmail.com**.
 
 ## 🚀 Languages and Tools:
 
@@ -38,21 +35,9 @@
     <a href="https://code.visualstudio.com/docs/languages/cpp" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://support.apple.com/en-in/guide/terminal/welcome/mac" target="_blank"><img src="https://img.icons8.com/color/50/000000/console.png"/> </a>
     <a href="https://realm.io/" target="_blank"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://jquery.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="40" height="40"/></a>
-    <a herf="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/js.png" width="40" height="40"/></a>
        <a align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" color="black"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyer" width="40" height="40"/> </a>
 </p>
 
@@ -61,15 +46,15 @@
 
 <p align="center">
     <a href="https://github.com/SANKALP1011/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SANKALP1011 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SANKALP1011&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SANKALP1011 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrao&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SANKALP1011/github-readme-stats"><img alt="SANKALP1011 Github Stats" src="https://github-readme-stats.vercel.app/api?username=SANKALP1011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sankalp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANKALP1011&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/muskanrao/github-readme-stats"><img alt="muskanrao Github Stats" src="https://github-readme-stats.vercel.app/api?username=muskanrao&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrao&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -77,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SANKALP1011/github-readme-activity-graph"><img alt="Sankalp Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SANKALP1011&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/muskanrao/github-readme-activity-graph"><img alt="Muskan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muskanrao&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -85,10 +70,6 @@
 ## Connect with me:
 <p align="left">
 
-
-
-<a href = "https://www.instagram.com/sankalp_.10/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/tigerishan426"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/></a>
 </a>
 
 </p>
@@ -97,5 +78,5 @@
 <a href="https://github.com/SANKALP1011/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SANKALP1011">
 </a>
-<a href="https://github.com/SANKALP1011?tab=followers"><img src="https://img.shields.io/github/followers/SANKALP1011?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/muskanrao?tab=followers"><img src="https://img.shields.io/github/followers/muskanrao?label=Followers&style=social" alt="GitHub Badge"></a>
 
