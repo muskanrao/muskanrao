@@ -1,12 +1,27 @@
 <p align="center">
-<a  href="#"><img width="30%" height="auto" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="6px" /></a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+ <br>
+  <a href="https://www.linkedin.com/in/muskan-rao-658243224/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/muskan_rao.19/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+
+ </div>
 </p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muskan</h1>
-<h3 align="center">Ios app developer from India.</h3>
+ <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muskan</h1>
+ 
+<div align="center">
+<a  href="#"><img width="30%" height="auto" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="6px" /></a>
+ <h3 align="center">Ios app developer from India.</h3>
+</div>
 
-
-## About Me
+## 💻 About Me
 - I am third year student from Vellore Institute of technology , Vellore pursuing computer science with specialisation in Information Security.
  
 > - I am Ios app developer who can create high functionality apps.✨
