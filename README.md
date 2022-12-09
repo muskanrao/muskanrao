@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/muskan_rao.19/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://portfolio-psi-nine-54.vercel.app">🔗 Portfolio </a>
+
 
 
  </div>
@@ -23,6 +23,11 @@
 </div>
 
 ## 💻 About Me
+<div>
+
+  <a href="https://portfolio-psi-nine-54.vercel.app">🔗 Portfolio </a>
+ </div>
+
 - I am third year student from Vellore Institute of technology , Vellore pursuing computer science with specialisation in Information Security.
  
 > - I am Ios app developer who can create high functionality apps.✨
