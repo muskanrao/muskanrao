@@ -19,7 +19,7 @@
  
 <div align="center">
 <a  href="#"><img width="30%" height="auto" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="6px" /></a>
- <h3 align="center">Ios app developer from India.</h3>
+ <h3 align="center">iOS App developer</h3>
 </div>
 
 ## 💻 About Me
